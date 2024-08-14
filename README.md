@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Guido Barbieri! 👋
+
+## About Me
+
+I'm a Sales Closer and aspiring Full Stack Developer. Passionate about coding, modding video games, and developing C/C++ apps 🚀🧑‍💻🔧.
+
+- 🌱 I’m currently learning Full-Stack Development!
+- 🔭 I’m currently working on hobby programming projects (Mainly in self-taught C/C++).
+- I can speak both Spanish 🇪🇸  (Native level) and English 🇬🇧 (C1 level) with accuracy!
+- 💬 Ask me about: Full-Stack Development, C/C++ Programming, Sales Strategies, Video Game Modding with Ghidra, and transitioning from Sales to Software Development
+- 💻 I’m proficient in using and developing for both Windows and Linux operating systems.
+
+## Skills
+- 💻 C/C++
+- 🎨 Adobe Suite (Photoshop/Premiere/AfterEffects/Illustrator)
+- 🐙 Git
+
+## Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gui2barbieri)
 
 <!--
-**Gui2Barbieri/Gui2Barbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
