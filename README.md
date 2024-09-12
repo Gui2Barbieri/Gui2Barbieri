@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Sales Closer and aspiring Full Stack Developer. Passionate about coding, modding video games, and developing C/C++ apps 🚀🧑‍💻🔧.
+I'm an aspiring Full Stack Developer. Passionate about coding, modding video games, and developing C/C++ apps 🚀🧑‍💻🔧.
 
 - 🌱 I’m currently learning Full-Stack Development!
 - 🔭 I’m currently working on hobby programming projects (Mainly in self-taught C/C++).
