@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Guido Barbieri! 👋
 
-<!--
-**Gui2Barbieri/Gui2Barbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Programming student at UTN FRGP, focused on building robust and efficient software. I enjoy tackling challenges and learning about different systems architectures and low-level development.
 
-Here are some ideas to get you started:
+### 🚀 Featured Project
+**[Generala C++](https://github.com/Gui2Barbieri/Generala-Cpp)** A high-performance, cross-platform implementation of the classic dice game, featuring Doxygen documentation and multi-OS support (Windows/Linux).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** C++, C, SQL (Learning).
+* **Tools:** Git, GCC, MinGW, Doxygen.
+* **Currently Learning:** Object-Oriented Programming & Database Systems.
+
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gui2barbieri/) | [Email](mailto:Guido.Barbieri@alumnos.frgp.utn.edu.ar)
+
+---
+*“Simplicity is the soul of efficiency.”* -Austin Freeman
