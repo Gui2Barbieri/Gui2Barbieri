@@ -6,7 +6,7 @@ I am a Computer Programming student at UTN FRGP, focused on building robust and 
 **[Generala C++](https://github.com/Gui2Barbieri/Generala-Cpp)** A high-performance, cross-platform implementation of the classic dice game, featuring Doxygen documentation and multi-OS support (Windows/Linux).
 
 ### 🛠️ Tech Stack
-* **Languages:** C++, C, SQL (Learning).
+* **Languages:** C++, C,,C#,.NET, SQL (Learning).
 * **Tools:** Git, GCC, MinGW, Doxygen.
 * **Currently Learning:** Object-Oriented Programming & Database Systems.
 
